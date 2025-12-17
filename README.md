@@ -3,3 +3,5 @@ For my Fundamentals of Data Science class, my team and I created a google site d
 
 Here is the link to our site:
 https://sites.google.com/truman.edu/diana/home
+
+I contributed to the parts that are bolded with my name.
